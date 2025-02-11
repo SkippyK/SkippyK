@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SkippyK
 - 👀 I’m interested in Neuroscience, image processing and all things data science and raspberry pi
-- 🌱 I’m currently learning how to integrate Fiji and python coding for reproducible image processing
-- 💞️ I’m looking to collaborate on python and image processing
+- 🌱 I’m currently learning how to create dashboards with dash and plotly for data visualization
+- 💞️ I’m looking to collaborate on python, image processing, data anlysis and anything open source
 - 📫 How to reach me ... LinkedIn Skippy Keiter, be sure to mention github
 
 <!---
